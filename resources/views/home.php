@@ -1,1 +1,1 @@
-<h2>My name is Laravel</h2>
+<h2>This is Home page</h2>
